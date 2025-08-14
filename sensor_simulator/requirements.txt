@@ -1,0 +1,2 @@
+# mqtt_workshop/sensor_simulator/requirements.txt
+paho-mqtt
