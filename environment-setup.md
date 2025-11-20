@@ -50,6 +50,8 @@ Create and Activate the Virtual Environment
 
 Create a dedicated folder for our client scripts and set up a Python virtual environment inside it. This keeps our project dependencies tidy.
 
+This step assumes that you have installed Python 3 on your laptop.
+
 Instructions:
 
 - On your computer (not inside the mqtt_workshop folder), create a new folder to hold your client scripts. Let's call it smartbuilding_client.

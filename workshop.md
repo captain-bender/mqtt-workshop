@@ -1,5 +1,6 @@
 ## Hands-on experiments part of the workshop
 
+The files of the smartbuilding workshop can be download from the following repository: [Smart building client](https://github.com/captain-bender/smartbuilding-mqtt-client)
 ### Experiment 1: Monitoring the Building
 
 **Objective**: Understand how to subscribe to topics and use wildcards to filter message streams.
