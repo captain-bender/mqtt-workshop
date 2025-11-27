@@ -11,7 +11,7 @@ import json
 import random
 
 BROKER_HOSTNAME = "mqtt_broker"
-BROKER_PORT = 1883
+BROKER_PORT = 1884
 
 def connect_mqtt():
     # Using the modern V2 client constructor
